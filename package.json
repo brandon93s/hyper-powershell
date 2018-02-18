@@ -1,6 +1,6 @@
 {
   "name": "hyper-powershell",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Hyper.app plugin for basic PowerShell configuration",
   "main": "index.js",
   "repository": "https://github.com/brandon93s/hyper-powershell",
